@@ -1,4 +1,3 @@
-from django.db.models.base import Model as Model
 from django.shortcuts import render, get_object_or_404, redirect
 from django.utils.timezone import now
 from django.core.paginator import Paginator
